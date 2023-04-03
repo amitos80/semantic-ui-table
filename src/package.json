@@ -1,0 +1,12 @@
+{
+  "name": "expandable-table-in-semantic-ui-react",
+  "version": "1.0.0",
+  "description": "A template for Semantic UI React issues",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui-react": "0.74.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
